@@ -1,11 +1,14 @@
 #Python for data science
 
-#Files:
-###Dictionaries and Pandas.py 
+##Datasets
+        Datasets that are used in these exercises are in Dataset repository
+
+##Files:
+
 ###Matplotlib.py
         
         
-##Dictionaries and Pandas.py
+###Dictionaries and Pandas.py
         Creating,accessing, manipulating dictionaries
         Creating pandas DataFrame from dictionaries
         Accessing and manipulating data in Pandas DataFrame

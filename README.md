@@ -5,7 +5,7 @@ Files:
         Matplotlib.py
         
         
-Dictionaries and Pandas.py:
+Dictionaries and Pandas.py:\n
         Creating,accessing, manipulating dictionaries
         Creating pandas DataFrame from dictionaries
         Accessing and manipulating data in Pandas DataFrame

@@ -10,7 +10,9 @@
 ##Files:
 
 ###Matplotlib.py
-        
+        Line, scatter plots
+        Histograms
+        World Development ( x= GDP per Capita, y= Life Expectancy)
         
 ###Dictionaries and Pandas.py
         Creating,accessing, manipulating dictionaries

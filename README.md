@@ -37,3 +37,8 @@
         Conditional Statments
         Filtering pandas using boolean conditional statments
         Filtering pandas using numpy boolean operators
+        
+###Loops.py
+        While loops
+        For loops
+        Loop over list of lists, dictionaries, numpy array, DataFrame

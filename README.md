@@ -1,5 +1,7 @@
 #Python for data science
 
+This repository containes exercises as a part of datacamp python specialization
+
 ##Python libraries used:
         Pandas, Matplotlib, Requests, Numpy
         Json, Urllib, BeautifulSoup
@@ -65,3 +67,12 @@
         While loops
         For loops
         Loop over list of lists, dictionaries, numpy array, DataFrame
+
+###Importing files:
+        Importing Flat Files in Python.py
+        Importing Flat Files with NumPy.py
+        Importing Flat Files with Pandas.py
+        Importing and creating pickled files.py
+        Importing Excel Files with Pandas.py
+        Importing SAS and STATA Files.py
+        Importing HDF5 and MATLAB Files.py

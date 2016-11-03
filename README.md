@@ -29,3 +29,9 @@
         Performing HTTP requests in Python using urllib
         Performing HTTP requests in Python using requests
         Turning a webpage data into using BeautifulSoup
+        
+###Logic, Control Flow and Filtering.py
+        Comparison and Boolean operators
+        Conditional Statments
+        Filtering pandas using boolean conditional statments
+        Filtering pandas using numpy boolean operators

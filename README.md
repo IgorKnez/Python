@@ -28,4 +28,4 @@
         Importing non-flat files from the web using pandas
         Performing HTTP requests in Python using urllib
         Performing HTTP requests in Python using requests
-        Turning a webpage into data using BeautifulSoup
+        Turning a webpage data into using BeautifulSoup

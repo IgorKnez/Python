@@ -4,7 +4,7 @@ This repository containes exercises as a part of datacamp python specialization
 
 ##Python libraries used:
         Pandas, Matplotlib, Requests, Numpy
-        Json, Urllib, BeautifulSoup
+        Json, Urllib, BeautifulSoup, sqlalchemy 
 
 ##Datasets
         Datasets that are used in these exercises are in Dataset repository
@@ -26,7 +26,7 @@ This repository containes exercises as a part of datacamp python specialization
         Importing Json file formats
         extracting data from APIs using requests and json library
 
-###Urllib, Requests and BeautifulSoup.py
+###Importing files from web using Urllib, Requests and BeautifulSoup.py
         Importing flat files from the web with Urllib
         Opening and reading flat files from web using pandas
         Importing non-flat files from the web using pandas
@@ -76,3 +76,9 @@ This repository containes exercises as a part of datacamp python specialization
         Importing Excel Files with Pandas.py
         Importing SAS and STATA Files.py
         Importing HDF5 and MATLAB Files.py
+        
+###Relational Databases.py
+        Creating SQL a database engine
+        Filtering your database records
+        Pandas for more complex querying
+        Relational databases

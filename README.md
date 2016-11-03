@@ -38,6 +38,29 @@
         Filtering pandas using boolean conditional statments
         Filtering pandas using numpy boolean operators
         
+###Lambda Functions and Error handling.py
+        lambda function with multiple variables
+        lambda function and map(),filter(),reduce()
+        Error handling with try-except
+        Error handling by raising an error with raise ValueError()
+        
+
+###User defined functions.py
+        User-defined function without parameter
+        Single parameter function
+        Functions with multiple parameters
+        Tuples
+        Function that return multiple values
+
+###Scope, Nested functions, Default arguments, args and kwargs.py
+        Concept of scope (global, local)
+        Nested Functions - functions within functions
+        Functions with one default argument
+        Functions with multiple default arguments
+        Function with variable-length arguments (*args)
+        Function with variable-length keyword arguments (**kwargs)
+        
+        
 ###Loops.py
         While loops
         For loops
